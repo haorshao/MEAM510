@@ -1,0 +1,1238 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(acos.o)
+                              localization.o (acos)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              localization.o (__subsf3)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(acos.o) (__addsf3x)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              localization.o (__nesf2)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              localization.o (__divsf3)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              findPuck.o (__fixsfsi)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              communication.o (__fixunssfsi)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              localization.o (__floatunsisf)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(acos.o) (__fp_arccos)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_arccos.o) (__fp_powser)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(acos.o) (__fp_round)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              localization.o (__gtsf2)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              findPuck.o (__mulsf3)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_arccos.o) (__mulsf3x)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                              localization.o (sqrt)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(sqrt.o) (__fp_mpack)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(sqrt.o) (__fp_norm2)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                              findPuck.o (__divmodhi4)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o (exit)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              findPuck.o (__tablejump2__)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              localization.o (__do_copy_data)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              findPuck.o (__do_clear_bss)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+                              m_usb.o (__itoa_ncheck)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+                              m_usb.o (__ltoa_ncheck)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+                              m_usb.o (__ultoa_ncheck)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+                              m_usb.o (__utoa_ncheck)
+d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o) (strrev)
+
+Allocating common symbols
+Common symbol       size              file
+
+output              0x2               findPuck.o
+input               0x2               findPuck.o
+state               0x2               robockey_V1.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .bss           0x00000000        0x0 D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ .text          0x00000000        0x0 communication.o
+ .data          0x00000000        0x0 communication.o
+ .bss           0x00000000        0x0 communication.o
+ .text          0x00000000        0x0 findPuck.o
+ .data          0x00000000        0x0 findPuck.o
+ .bss           0x00000000        0x0 findPuck.o
+ .text          0x00000000        0x0 localization.o
+ .data          0x00000000        0x0 localization.o
+ .bss           0x00000000        0x0 localization.o
+ .bss.sum_loc   0x00000000        0x4 localization.o
+ .bss.theta     0x00000000        0x4 localization.o
+ .text          0x00000000        0x0 m_bus.o
+ .data          0x00000000        0x0 m_bus.o
+ .bss           0x00000000        0x0 m_bus.o
+ .text.twi_read_byte
+                0x00000000       0x16 m_bus.o
+ .text.twi_stop
+                0x00000000        0x8 m_bus.o
+ .text.twi_wait_for_ack
+                0x00000000       0x26 m_bus.o
+ .text.twi_send_byte
+                0x00000000       0x1a m_bus.o
+ .text.twi_start
+                0x00000000       0x5c m_bus.o
+ .text.m_read_register
+                0x00000000       0x36 m_bus.o
+ .text.m_write_register
+                0x00000000       0x34 m_bus.o
+ .text          0x00000000        0x0 m_rf.o
+ .data          0x00000000        0x0 m_rf.o
+ .bss           0x00000000        0x0 m_rf.o
+ .text          0x00000000        0x0 m_usb.o
+ .data          0x00000000        0x0 m_usb.o
+ .bss           0x00000000        0x0 m_usb.o
+ .text.m_usb_isconnected
+                0x00000000        0x6 m_usb.o
+ .text.m_usb_rx_char
+                0x00000000       0x3c m_usb.o
+ .text.m_usb_rx_available
+                0x00000000       0x1e m_usb.o
+ .text.m_usb_rx_flush
+                0x00000000       0x2c m_usb.o
+ .text.usb_serial_putchar_nowait
+                0x00000000       0x42 m_usb.o
+ .text.usb_serial_write
+                0x00000000      0x448 m_usb.o
+ .progmem.gcc_sw_table.usb_serial_write
+                0x00000000       0x82 m_usb.o
+ .text.m_usb_tx_push
+                0x00000000       0x20 m_usb.o
+ .text.usb_serial_get_stopbits
+                0x00000000        0x6 m_usb.o
+ .text.usb_serial_get_paritytype
+                0x00000000        0x6 m_usb.o
+ .text.usb_serial_get_numbits
+                0x00000000        0x6 m_usb.o
+ .text.usb_serial_get_control
+                0x00000000        0x6 m_usb.o
+ .text.usb_serial_set_control
+                0x00000000       0x50 m_usb.o
+ .text.phex1    0x00000000       0x12 m_usb.o
+ .text.phex     0x00000000       0x18 m_usb.o
+ .text.m_usb_tx_hex
+                0x00000000       0x14 m_usb.o
+ .text.m_usb_tx_hexchar
+                0x00000000        0x6 m_usb.o
+ .text.m_usb_tx_uint
+                0x00000000       0x62 m_usb.o
+ .text.m_usb_tx_long
+                0x00000000       0x68 m_usb.o
+ .text.m_usb_tx_ulong
+                0x00000000       0x68 m_usb.o
+ .text          0x00000000        0x0 m_wii.o
+ .data          0x00000000        0x0 m_wii.o
+ .bss           0x00000000        0x0 m_wii.o
+ .text.end      0x00000000        0x8 m_wii.o
+ .text          0x00000000        0x0 robockey_V1.o
+ .data          0x00000000        0x0 robockey_V1.o
+ .bss           0x00000000        0x0 robockey_V1.o
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(acos.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(acos.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(acos.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(sqrt.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x1e d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ltoa_ncheck.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .text.avr-libc
+                0x00000000       0x44 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_ncheck.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+ .text          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x00000000        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+LOAD communication.o
+LOAD findPuck.o
+LOAD localization.o
+LOAD m_bus.o
+LOAD m_rf.o
+LOAD m_usb.o
+LOAD m_wii.o
+LOAD robockey_V1.o
+START GROUP
+LOAD d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5\libatmega32u4.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x359c
+ *(.vectors)
+ .vectors       0x00000000       0xac D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.__vector_29
+                0x000000ac        0xe findPuck.o
+ .progmem.gcc_sw_table.__vector_3
+                0x000000ba       0x14 robockey_V1.o
+ .progmem.gcc_fplib
+                0x000000ce       0x28 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
+                0x000000f6                . = ALIGN (0x2)
+                0x000000f6                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000f6        0x0 linker stubs
+ *(.trampolines*)
+                0x000000f6                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data.__c.2008
+                0x000000f6        0x7 communication.o
+ .progmem.data.__c.2101
+                0x000000fd        0xf findPuck.o
+ .progmem.data.__c.2083
+                0x0000010c        0x3 findPuck.o
+ .progmem.data.__c.2081
+                0x0000010f        0x8 findPuck.o
+ .progmem.data.__c.2079
+                0x00000117        0x3 findPuck.o
+ .progmem.data.__c.2077
+                0x0000011a        0x5 findPuck.o
+ .progmem.data.__c.2075
+                0x0000011f        0x3 findPuck.o
+ .progmem.data.__c.2073
+                0x00000122        0x7 findPuck.o
+ .progmem.data.__c.2064
+                0x00000129        0xa findPuck.o
+ .progmem.data.__c.2062
+                0x00000133        0x5 findPuck.o
+ .progmem.data.__c.2060
+                0x00000138        0xc findPuck.o
+ .progmem.data.__c.2058
+                0x00000144        0x5 findPuck.o
+ .progmem.data.__c.2056
+                0x00000149        0xb findPuck.o
+ .progmem.data.__c.2052
+                0x00000154        0x3 findPuck.o
+ .progmem.data.__c.2050
+                0x00000157        0x7 findPuck.o
+ .progmem.data.__c.2048
+                0x0000015e        0x3 findPuck.o
+ .progmem.data.__c.2046
+                0x00000161        0x7 findPuck.o
+ .progmem.data.__c.2044
+                0x00000168        0x3 findPuck.o
+ .progmem.data.__c.2042
+                0x0000016b        0x7 findPuck.o
+ .progmem.data.__c.2040
+                0x00000172        0x3 findPuck.o
+ .progmem.data.__c.2038
+                0x00000175        0x7 findPuck.o
+ .progmem.data.__c.2036
+                0x0000017c        0x3 findPuck.o
+ .progmem.data.__c.2034
+                0x0000017f        0x7 findPuck.o
+ .progmem.data.__c.2032
+                0x00000186        0x3 findPuck.o
+ .progmem.data.__c.2030
+                0x00000189        0x7 findPuck.o
+ .progmem.data.__c.2028
+                0x00000190        0x3 findPuck.o
+ .progmem.data.__c.2026
+                0x00000193        0x7 findPuck.o
+ .progmem.data.__c.2024
+                0x0000019a        0x3 findPuck.o
+ .progmem.data.__c.2142
+                0x0000019d        0xb localization.o
+ .progmem.data.__c.2140
+                0x000001a8        0xc localization.o
+ .progmem.data.__c.2138
+                0x000001b4        0x2 localization.o
+ .progmem.data.__c.2136
+                0x000001b6        0xa localization.o
+ .progmem.data.__c.2134
+                0x000001c0        0x2 localization.o
+ .progmem.data.__c.2132
+                0x000001c2        0xb localization.o
+ .progmem.data.__c.2122
+                0x000001cd        0x2 localization.o
+ .progmem.data.__c.2120
+                0x000001cf        0x8 localization.o
+ .progmem.data.__c.2096
+                0x000001d7        0x2 localization.o
+ .progmem.data.__c.2094
+                0x000001d9        0x8 localization.o
+ .progmem.data.__c.2092
+                0x000001e1       0x11 localization.o
+ .progmem.data.__c.2090
+                0x000001f2        0x2 localization.o
+ .progmem.data.__c.2088
+                0x000001f4        0x5 localization.o
+ .progmem.data.__c.2086
+                0x000001f9        0xc localization.o
+ .progmem.data.descriptor_list
+                0x00000205       0x2a m_usb.o
+ .progmem.data.string3
+                0x0000022f        0xa m_usb.o
+ .progmem.data.string2
+                0x00000239        0x8 m_usb.o
+ .progmem.data.string1
+                0x00000241       0x14 m_usb.o
+ .progmem.data.string0
+                0x00000255        0x4 m_usb.o
+ .progmem.data.config1_descriptor
+                0x00000259       0x43 m_usb.o
+ .progmem.data.device_descriptor
+                0x0000029c       0x12 m_usb.o
+ .progmem.data.endpoint_config_table
+                0x000002ae        0xa m_usb.o
+ .progmem.data.__c.2112
+                0x000002b8        0x2 robockey_V1.o
+ .progmem.data.__c.2110
+                0x000002ba        0x5 robockey_V1.o
+ .progmem.data.__c.2108
+                0x000002bf       0x12 robockey_V1.o
+ .progmem.data.__c.2106
+                0x000002d1        0xf robockey_V1.o
+ .progmem.data.__c.2104
+                0x000002e0        0x5 robockey_V1.o
+ .progmem.data.__c.2101
+                0x000002e5        0xb robockey_V1.o
+ .progmem.data.__c.2098
+                0x000002f0        0xa robockey_V1.o
+ .progmem.data.__c.2095
+                0x000002fa        0x7 robockey_V1.o
+ .progmem.data.__c.2092
+                0x00000301        0x8 robockey_V1.o
+ .progmem.data.__c.2089
+                0x00000309        0x8 robockey_V1.o
+ .progmem.data.__c.2086
+                0x00000311        0x7 robockey_V1.o
+ .progmem.data.__c.2082
+                0x00000318        0xc robockey_V1.o
+ .progmem.data.__c.2073
+                0x00000324        0x2 robockey_V1.o
+ .progmem.data.__c.2071
+                0x00000326        0x3 robockey_V1.o
+ .progmem.data.__c.2069
+                0x00000329        0x9 robockey_V1.o
+ .progmem.data.__c.2066
+                0x00000332        0x2 robockey_V1.o
+ .progmem.data.__c.2064
+                0x00000334        0x9 robockey_V1.o
+ .progmem.data.__c.2062
+                0x0000033d        0xf robockey_V1.o
+ .progmem.data.__c.2055
+                0x0000034c        0x2 robockey_V1.o
+ .progmem.data.__c.2053
+                0x0000034e        0x8 robockey_V1.o
+                0x00000356                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000356                __ctors_start = .
+ *(.ctors)
+                0x00000356                __ctors_end = .
+                0x00000356                __dtors_start = .
+ *(.dtors)
+                0x00000356                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000356        0x0 D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+                0x00000356                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000356        0xc D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000362       0x16 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x00000362                __do_copy_data
+ .init4         0x00000378       0x10 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x00000378                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000388        0x8 D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+ *(.init9)
+ *(.text)
+ .text          0x00000390        0x4 D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+                0x00000390                __vector_38
+                0x00000390                __vector_22
+                0x00000390                __vector_28
+                0x00000390                __vector_1
+                0x00000390                __vector_32
+                0x00000390                __vector_34
+                0x00000390                __vector_24
+                0x00000390                __vector_12
+                0x00000390                __bad_interrupt
+                0x00000390                __vector_6
+                0x00000390                __vector_31
+                0x00000390                __vector_35
+                0x00000390                __vector_39
+                0x00000390                __vector_23
+                0x00000390                __vector_30
+                0x00000390                __vector_25
+                0x00000390                __vector_13
+                0x00000390                __vector_17
+                0x00000390                __vector_19
+                0x00000390                __vector_7
+                0x00000390                __vector_41
+                0x00000390                __vector_27
+                0x00000390                __vector_5
+                0x00000390                __vector_33
+                0x00000390                __vector_37
+                0x00000390                __vector_4
+                0x00000390                __vector_9
+                0x00000390                __vector_2
+                0x00000390                __vector_21
+                0x00000390                __vector_15
+                0x00000390                __vector_36
+                0x00000390                __vector_40
+                0x00000390                __vector_8
+                0x00000390                __vector_26
+                0x00000390                __vector_14
+                0x00000390                __vector_16
+                0x00000390                __vector_18
+                0x00000390                __vector_20
+                0x00000390                __vector_42
+                0x00000394                . = ALIGN (0x2)
+ *(.text.*)
+ .text.send_message
+                0x00000394       0x88 communication.o
+                0x00000394                send_message
+ .text.init_ADC
+                0x0000041c       0x98 findPuck.o
+                0x0000041c                init_ADC
+ .text.PID_Pho  0x000004b4      0x230 findPuck.o
+                0x000004b4                PID_Pho
+ .text.findPuck
+                0x000006e4      0x214 findPuck.o
+                0x000006e4                findPuck
+ .text.__vector_29
+                0x000008f8      0x182 findPuck.o
+                0x000008f8                __vector_29
+ .text.deterState
+                0x00000a7a       0x22 findPuck.o
+                0x00000a7a                deterState
+ .text.find_sign
+                0x00000a9c      0x1c0 localization.o
+                0x00000a9c                find_sign
+ .text.cal_angle
+                0x00000c5c      0x220 localization.o
+                0x00000c5c                cal_angle
+ .text.PID_alpha
+                0x00000e7c      0x266 localization.o
+                0x00000e7c                PID_alpha
+ .text.find_if_reach
+                0x000010e2       0xb6 localization.o
+                0x000010e2                find_if_reach
+ .text.localization
+                0x00001198      0xe16 localization.o
+                0x00001198                localization
+ .text.m_bus_init
+                0x00001fae       0x22 m_bus.o
+                0x00001fae                m_bus_init
+ .text.m_rf_open
+                0x00001fd0       0xac m_rf.o
+                0x00001fd0                m_rf_open
+ .text.m_rf_read
+                0x0000207c       0xc8 m_rf.o
+                0x0000207c                m_rf_read
+ .text.m_rf_send
+                0x00002144       0xa2 m_rf.o
+                0x00002144                m_rf_send
+ .text.m_usb_init
+                0x000021e6       0x32 m_usb.o
+                0x000021e6                m_usb_init
+ .text.m_usb_tx_char
+                0x00002218       0xb6 m_usb.o
+                0x00002218                m_usb_tx_char
+ .text.__vector_10
+                0x000022ce       0x7c m_usb.o
+                0x000022ce                __vector_10
+ .text.__vector_11
+                0x0000234a      0x306 m_usb.o
+                0x0000234a                __vector_11
+ .text.print_P  0x00002650       0x38 m_usb.o
+                0x00002650                print_P
+ .text.m_usb_tx_int
+                0x00002688       0x68 m_usb.o
+                0x00002688                m_usb_tx_int
+ .text.twi_wait
+                0x000026f0       0x26 m_wii.o
+                0x000026f0                twi_wait
+ .text.send_byte
+                0x00002716       0x1a m_wii.o
+                0x00002716                send_byte
+ .text.start_write
+                0x00002730       0x2e m_wii.o
+                0x00002730                start_write
+ .text.m_wii_open
+                0x0000275e      0x212 m_wii.o
+                0x0000275e                m_wii_open
+ .text.start_read
+                0x00002970       0x30 m_wii.o
+                0x00002970                start_read
+ .text.m_wii_read
+                0x000029a0      0x126 m_wii.o
+                0x000029a0                m_wii_read
+ .text.__vector_3
+                0x00002ac6      0x196 robockey_V1.o
+                0x00002ac6                __vector_3
+ .text.init_timer
+                0x00002c5c       0x78 robockey_V1.o
+                0x00002c5c                init_timer
+ .text.main     0x00002cd4      0x21c robockey_V1.o
+                0x00002cd4                main
+ .text.avr-libc.fplib
+                0x00002ef0       0x22 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(acos.o)
+                0x00002ef0                acos
+ .text.avr-libc.fplib
+                0x00002f12        0xe d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                0x00002f12                __subsf3
+                0x00002f14                __addsf3
+ .text.avr-libc.fplib
+                0x00002f20       0xcc d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                0x00002f42                __addsf3x
+ .text.avr-libc.fplib
+                0x00002fec        0xa d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x00002fec                __nesf2
+                0x00002fec                __eqsf2
+                0x00002fec                __cmpsf2
+                0x00002fec                __ltsf2
+                0x00002fec                __lesf2
+ .text.avr-libc.fplib
+                0x00002ff6        0x8 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00002ff6                __divsf3
+ .text.avr-libc.fplib
+                0x00002ffe       0xdc d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x0000301e                __divsf3x
+                0x00003024                __divsf3_pse
+ .text.avr-libc.fplib
+                0x000030da        0xe d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                0x000030da                __fixsfsi
+ .text.avr-libc.fplib
+                0x000030e8       0x5e d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x000030e8                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00003146       0x7a d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                0x00003146                __floatunsisf
+                0x0000314a                __floatsisf
+ .text.avr-libc.fplib
+                0x000031c0       0x40 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_arccos.o)
+                0x000031c0                __fp_arccos
+ .text.avr-libc.fplib
+                0x00003200       0x48 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00003200                __fp_cmp
+ .text.avr-libc.fplib
+                0x00003248        0xc d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00003248                __fp_inf
+ .text.avr-libc.fplib
+                0x00003254        0x6 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00003254                __fp_nan
+ .text.avr-libc.fplib
+                0x0000325a       0x4e d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_powser.o)
+                0x0000325a                __fp_powser
+ .text.avr-libc.fplib
+                0x000032a8        0xe d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x000032a8                __fp_pscA
+ .text.avr-libc.fplib
+                0x000032b6        0xe d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x000032b6                __fp_pscB
+ .text.avr-libc.fplib
+                0x000032c4       0x22 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x000032c4                __fp_round
+ .text.avr-libc.fplib
+                0x000032e6       0x44 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x000032e6                __fp_split3
+                0x000032f6                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000332a        0xe d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000332a                __fp_zero
+                0x0000332c                __fp_szero
+ .text.avr-libc.fplib
+                0x00003338        0xa d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00003338                __gesf2
+                0x00003338                __gtsf2
+ .text.avr-libc.fplib
+                0x00003342        0x8 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00003342                __mulsf3
+ .text.avr-libc.fplib
+                0x0000334a       0xd2 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00003368                __mulsf3x
+                0x0000336e                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x0000341c       0x8c d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(sqrt.o)
+                0x00003428                sqrtf
+                0x00003428                sqrt
+ .text.avr-libc.fplib
+                0x000034a8       0x1c d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_mpack.o)
+                0x000034a8                __fp_mpack
+                0x000034ac                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x000034c4        0xe d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_norm2.o)
+                0x000034c4                __fp_norm2
+ .text.libgcc.div
+                0x000034d2       0x28 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                0x000034d2                _div
+                0x000034d2                __divmodhi4
+ .text.libgcc   0x000034fa        0xc d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x000034fa                __tablejump2__
+ .text.libgcc.div
+                0x00003506       0x28 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x00003506                __udivmodhi4
+ .text.avr-libc
+                0x0000352e       0x16 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(itoa_ncheck.o)
+                0x0000352e                __itoa_ncheck
+ .text.avr-libc
+                0x00003544       0x34 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(utoa_ncheck.o)
+                0x00003544                __utoa_ncheck
+                0x00003546                __utoa_common
+ .text.avr-libc
+                0x00003578       0x20 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x00003578                strrev
+                0x00003598                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00003598        0x0 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00003598                _exit
+                0x00003598                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00003598        0x4 d:/penn learning/meam510/software/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000359c                _etext = .
+
+.data           0x00800100       0x36 load address 0x0000359c
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.actmax   0x00800100        0xc localization.o
+                0x00800100                actmax
+ .data.pix2act  0x0080010c        0x4 localization.o
+                0x0080010c                pix2act
+ .data.threshold
+                0x00800110        0x4 localization.o
+                0x00800110                threshold
+ .data.dist_threshold
+                0x00800114        0x2 localization.o
+                0x00800114                dist_threshold
+ .data.camera_center
+                0x00800116        0x8 localization.o
+                0x00800116                camera_center
+ .data.cdc_line_coding
+                0x0080011e        0x7 m_usb.o
+ .data.goal     0x00800125        0x8 robockey_V1.o
+                0x00800125                goal
+ .data.c_wii    0x0080012d        0x8 robockey_V1.o
+                0x0080012d                c_wii
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800136                . = ALIGN (0x2)
+ *fill*         0x00800135        0x1 
+                0x00800136                _edata = .
+                0x00800136                PROVIDE (__data_end, .)
+
+.bss            0x00800136       0x74
+                0x00800136                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.diff_Pho  0x00800136        0x2 findPuck.o
+                0x00800136                diff_Pho
+ .bss.sum_Pho   0x00800138        0x2 findPuck.o
+                0x00800138                sum_Pho
+ .bss.input_last
+                0x0080013a        0x2 findPuck.o
+                0x0080013a                input_last
+ .bss.i         0x0080013c        0x2 findPuck.o
+                0x0080013c                i
+ .bss.Pho       0x0080013e        0xe findPuck.o
+                0x0080013e                Pho
+ .bss.gain_loc  0x0080014c        0x4 localization.o
+                0x0080014c                gain_loc
+ .bss.diff_loc  0x00800150        0x4 localization.o
+                0x00800150                diff_loc
+ .bss.alpha_last
+                0x00800154        0x4 localization.o
+                0x00800154                alpha_last
+ .bss.alpha     0x00800158        0x4 localization.o
+                0x00800158                alpha
+ .bss.dir_last  0x0080015c        0x8 localization.o
+                0x0080015c                dir_last
+ .bss.c_wii_last
+                0x00800164        0x8 localization.o
+                0x00800164                c_wii_last
+ .bss.blobs     0x0080016c       0x18 localization.o
+                0x0080016c                blobs
+ .bss.cdc_line_rtsdtr
+                0x00800184        0x1 m_usb.o
+ .bss.transmit_previous_timeout
+                0x00800185        0x1 m_usb.o
+ .bss.transmit_flush_timer
+                0x00800186        0x1 m_usb.o
+ .bss.usb_configuration
+                0x00800187        0x1 m_usb.o
+ .bss.puck_loc  0x00800188        0x4 robockey_V1.o
+                0x00800188                puck_loc
+ .bss.puck_holder
+                0x0080018c        0x2 robockey_V1.o
+                0x0080018c                puck_holder
+ .bss.ypdir     0x0080018e        0x8 robockey_V1.o
+                0x0080018e                ypdir
+ .bss.scoreB    0x00800196        0x2 robockey_V1.o
+                0x00800196                scoreB
+ .bss.scoreR    0x00800198        0x2 robockey_V1.o
+                0x00800198                scoreR
+ .bss.buffer    0x0080019a        0xa robockey_V1.o
+                0x0080019a                buffer
+ *(COMMON)
+ COMMON         0x008001a4        0x4 findPuck.o
+                0x008001a4                output
+                0x008001a6                input
+ COMMON         0x008001a8        0x2 robockey_V1.o
+                0x008001a8                state
+                0x008001aa                PROVIDE (__bss_end, .)
+                0x0000359c                __data_load_start = LOADADDR (.data)
+                0x000035d2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008001aa        0x0
+                0x008001aa                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008001aa                PROVIDE (__noinit_end, .)
+                0x008001aa                _end = .
+                0x008001aa                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 communication.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 findPuck.o
+ .comment       0x00000030       0x31 localization.o
+ .comment       0x00000030       0x31 m_bus.o
+ .comment       0x00000030       0x31 m_rf.o
+ .comment       0x00000030       0x31 m_usb.o
+ .comment       0x00000030       0x31 m_wii.o
+ .comment       0x00000030       0x31 robockey_V1.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 D:/Penn Learning/MEAM510/Software/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega32u4/avr5/crtatmega32u4.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x288
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 communication.o
+ .debug_aranges
+                0x00000020       0x40 findPuck.o
+ .debug_aranges
+                0x00000060       0x40 localization.o
+ .debug_aranges
+                0x000000a0       0x58 m_bus.o
+ .debug_aranges
+                0x000000f8       0x30 m_rf.o
+ .debug_aranges
+                0x00000128       0xe0 m_usb.o
+ .debug_aranges
+                0x00000208       0x50 m_wii.o
+ .debug_aranges
+                0x00000258       0x30 robockey_V1.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x3373
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x1f6 communication.o
+ .debug_info    0x000001f6      0x610 findPuck.o
+ .debug_info    0x00000806      0x965 localization.o
+ .debug_info    0x0000116b      0x2fa m_bus.o
+ .debug_info    0x00001465      0x189 m_rf.o
+ .debug_info    0x000015ee      0xf86 m_usb.o
+ .debug_info    0x00002574      0x6f8 m_wii.o
+ .debug_info    0x00002c6c      0x707 robockey_V1.o
+
+.debug_abbrev   0x00000000      0xca6
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x13c communication.o
+ .debug_abbrev  0x0000013c      0x16c findPuck.o
+ .debug_abbrev  0x000002a8      0x1d2 localization.o
+ .debug_abbrev  0x0000047a      0x149 m_bus.o
+ .debug_abbrev  0x000005c3       0xb6 m_rf.o
+ .debug_abbrev  0x00000679      0x2bd m_usb.o
+ .debug_abbrev  0x00000936      0x1a0 m_wii.o
+ .debug_abbrev  0x00000ad6      0x1d0 robockey_V1.o
+
+.debug_line     0x00000000     0x1219
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x12e communication.o
+ .debug_line    0x0000012e      0x18c findPuck.o
+ .debug_line    0x000002ba      0x228 localization.o
+ .debug_line    0x000004e2      0x168 m_bus.o
+ .debug_line    0x0000064a      0x191 m_rf.o
+ .debug_line    0x000007db      0x5b7 m_usb.o
+ .debug_line    0x00000d92      0x26d m_wii.o
+ .debug_line    0x00000fff      0x21a robockey_V1.o
+
+.debug_frame    0x00000000      0x8f8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x38 communication.o
+ .debug_frame   0x00000038      0x11c findPuck.o
+ .debug_frame   0x00000154      0x214 localization.o
+ .debug_frame   0x00000368       0xb8 m_bus.o
+ .debug_frame   0x00000420       0x6c m_rf.o
+ .debug_frame   0x0000048c      0x328 m_usb.o
+ .debug_frame   0x000007b4       0xb0 m_wii.o
+ .debug_frame   0x00000864       0x94 robockey_V1.o
+
+.debug_str      0x00000000      0x94b
+ *(.debug_str)
+ .debug_str     0x00000000      0x1c5 communication.o
+                                0x204 (size before relaxing)
+ .debug_str     0x000001c5       0xad findPuck.o
+                                0x22d (size before relaxing)
+ .debug_str     0x00000272      0x17a localization.o
+                                0x34f (size before relaxing)
+ .debug_str     0x000003ec       0x90 m_bus.o
+                                0x216 (size before relaxing)
+ .debug_str     0x0000047c       0x50 m_rf.o
+                                0x1e0 (size before relaxing)
+ .debug_str     0x000004cc      0x3d2 m_usb.o
+                                0x5b6 (size before relaxing)
+ .debug_str     0x0000089e       0x56 m_wii.o
+                                0x257 (size before relaxing)
+ .debug_str     0x000008f4       0x57 robockey_V1.o
+                                0x2c7 (size before relaxing)
+
+.debug_loc      0x00000000     0x3b2f
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x147 communication.o
+ .debug_loc     0x00000147      0x448 findPuck.o
+ .debug_loc     0x0000058f     0x11d1 localization.o
+ .debug_loc     0x00001760      0x23b m_bus.o
+ .debug_loc     0x0000199b      0x286 m_rf.o
+ .debug_loc     0x00001c21     0x190c m_usb.o
+ .debug_loc     0x0000352d      0x4d5 m_wii.o
+ .debug_loc     0x00003a02      0x12d robockey_V1.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x258
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 communication.o
+ .debug_ranges  0x00000010       0x30 findPuck.o
+ .debug_ranges  0x00000040       0x30 localization.o
+ .debug_ranges  0x00000070       0x48 m_bus.o
+ .debug_ranges  0x000000b8       0x20 m_rf.o
+ .debug_ranges  0x000000d8      0x120 m_usb.o
+ .debug_ranges  0x000001f8       0x40 m_wii.o
+ .debug_ranges  0x00000238       0x20 robockey_V1.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(robockey_V1.elf elf32-avr)
+LOAD linker stubs

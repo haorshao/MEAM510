@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "robockey_V3", "robockey_V3\robockey_V3.cproj", "{925DC76A-2DCE-4844-963E-D8E8DAEAB43E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{925DC76A-2DCE-4844-963E-D8E8DAEAB43E}.Debug|AVR.ActiveCfg = Debug|AVR
+		{925DC76A-2DCE-4844-963E-D8E8DAEAB43E}.Debug|AVR.Build.0 = Debug|AVR
+		{925DC76A-2DCE-4844-963E-D8E8DAEAB43E}.Release|AVR.ActiveCfg = Release|AVR
+		{925DC76A-2DCE-4844-963E-D8E8DAEAB43E}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
